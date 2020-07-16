@@ -2,9 +2,9 @@
 Analyzing International Debt Statistics (IDS) from WorldBank, using SQL.
 
 ## Questions to be answered in the Jupyter notebook
-- What is the total amount of debt that is owed by the countries listed in the dataset?
-- Which country owns the maximum amount of debt and what does that amount look like?
-- What is the average amount of debt owed by countries across different debt indicators?
+- [x] What is the total amount of debt that is owed by the countries listed in the dataset?
+- [x] Which country owns the maximum amount of debt and what does that amount look like?
+- [x] What is the average amount of debt owed by countries across different debt indicators?
 
 
 ## Dataset
